@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="View our latest products and prices in KSh, including water bottles, belts, gloves, and kitchen appliances. Contact us to order!">
+    <meta name="keywords" content="products, prices, water bottles, belts, gloves, kitchen appliances, buy online, KSh">
+    <title>Leviticus Products and Prices</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            text-align: center;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        h3 {
+            color: #2c3e50;
+            margin-top: 30px;
+            font-size: 1.5em;
+        }
+        .product {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin: 10px auto;
+            padding: 15px;
+            width: 80%;
+            max-width: 500px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .product h2 {
+            color: #2c3e50;
+            margin: 0;
+            font-size: 1.2em;
+        }
+        .product img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin: 10px 0;
+        }
+        .product p {
+            color: #555;
+            font-size: 1.1em;
+            margin: 5px 0;
+        }
+        .contact {
+            margin-top: 30px;
+            font-size: 1em;
+            color: #333;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        .contact a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            .product {
+                width: 90%;
+            }
+            h1 {
+                font-size: 1.5em;
+            }
+            h3 {
+                font-size: 1.2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Leviticus Products and Prices</h1>
+
+    <h3>Water Bottles</h3>
+    <div class="product">
+        <h2>Basic Water Bottle</h2>
+        <img src="basic-water-bottle.jpg" alt="Basic Water Bottle">
+        <p>Price: KSh 350</p>
+    </div>
+    <div class="product">
+        <h2>Insulated Water Bottle</h2>
+        <img src="insulated-water-bottle.jpg" alt="Insulated Water Bottle">
+        <p>Price: KSh 1,200</p>
+    </div>
+    <div class="product">
+        <h2>Premium Water Bottle</h2>
+        <img src="premium-water-bottle.jpg" alt="Premium Water Bottle">
+        <p>Price: KSh 2,000</p>
+    </div>
+
+    <h3>Belts</h3>
+    <div class="product">
+        <h2>Canvas Belt</h2>
+        <img src="canvas-belt.jpg" alt="Canvas Belt">
+        <p>Price: KSh 250</p>
+    </div>
+    <div class="product">
+        <h2>Formal Leather Belt</h2>
+        <img src="formal-leather-belt.jpg" alt="Formal Leather Belt">
+        <p>Price: KSh 350</p>
+    </div>
+    <div class="product">
+        <h2>Premium Leather Belt</h2>
+        <img src="premium-leather-belt.jpg" alt="Premium Leather Belt">
+        <p>Price: KSh 500</p>
+    </div>
+
+    <h3>Gloves</h3>
+    <div class="product">
+        <h2>Basic Work Gloves</h2>
+        <img src="basic-work-gloves.jpg" alt="Basic Work Gloves">
+        <p>Price: KSh 450</p>
+    </div>
+    <div class="product">
+        <h2>Heavy-Duty Work Gloves</h2>
+        <img src="heavy-duty-work-gloves.jpg" alt="Heavy-Duty Work Gloves">
+        <p>Price: KSh 600</p>
+    </div>
+
+    <h3>Kitchen Appliances</h3>
+    <div class="product">
+        <h2>Electric Kettle (1.7L)</h2>
+        <img src="electric-kettle.jpg" alt="Electric Kettle">
+        <p>Price: KSh 1,500</p>
+    </div>
+    <div class="product">
+        <h2>Blender (500W)</h2>
+        <img src="blender.jpg" alt="Blender">
+        <p>Price: KSh 3,000</p>
+    </div>
+    <div class="product">
+        <h2>Non-Stick Frying Pan</h2>
+        <img src="frying-pan.jpg" alt="Non-Stick Frying Pan">
+        <p>Price: KSh 800</p>
+    </div>
+
+    <div class="contact">
+        <p>Interested in purchasing? Contact us at <a href="mailto:leviticus.okamu@gmail.com">leviticus.okamu@gmail.com</a> or reach us via WhatsApp/Call at <a href="tel:+254799563135">+254799563135</a>.</p>
+    </div>
+</body>
+</html>
